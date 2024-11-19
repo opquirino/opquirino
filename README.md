@@ -1,10 +1,3 @@
-Hi 👋, I'm Oscar D.
-A Statistician and Data Analyst in Mexico City
-🔭 I’m currently working on NBA Drafting proyect
-💬 Ask me about R, Python, SQL
+Soy Data Analyst certificado por DataCamp y Henry, maestro en Evaluación Educativa y especialista en Estadística Aplicada por la UNAM (México). Tengo más de 12 años analizando información cuantitativa y cualitativa. Utilizo herramientas de análisis como R Studio, Python (Numpy, Pandas, Mathplot, Seaborn, etc.), SQL Server, Excel, SPSS, Power Query, DAX, Power BI y herramientas como Visual Studio Code y Jupiter. Cuento con experiencia en Educación Superior y Media Superior en temas de análisis de datos, evaluación del aprendizaje, aplicación de pruebas, evaluación docente, seguimiento de egresados y temas afines.
 📫 How to reach me opquirino@gmail.com
-Connect with me:
-username
-Languages and Tools:
-mssql
-python
+Connect with me: opquirino
